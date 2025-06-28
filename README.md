@@ -61,8 +61,8 @@
 
 ## 📈 GitHub Stats
 
-![Guna's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunavenkatdoddi&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunavenkatdoddi&layout=compact&theme=tokyonight)
+![Guna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guna-Venkat&show_icons=true&theme=tokyonight&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guna-Venkat&layout=compact&theme=tokyonight)
 
 ---
 
