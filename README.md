@@ -31,7 +31,37 @@
 
 ---
 
-## 🌟 Featured Projects (Coming Soon)
+## 🌟 Featured Projects (more on the way Soon)
+
+### 🧠 Eye Disease Classification using Deep Learning  
+[![Repo](https://img.shields.io/badge/GitHub-Repo-000?logo=github)](https://github.com/Guna-Venkat/EyeDiseaseClassification)
+[![Kaggle](https://img.shields.io/badge/View-Kaggle_Notebook-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/gunavenkatdoddi/final-model-build2)
+[![Dataset](https://img.shields.io/badge/Dataset-Kaggle-orange?logo=kaggle)](https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification)
+[![Paper](https://img.shields.io/badge/Download-PDF_Paper-critical?logo=adobeacrobatreader&logoColor=white)](https://github.com/Guna-Venkat/EyeDiseaseClassification/blob/main/ResearchPaper.pdf)
+
+> 🩺 A CNN-based diagnostic system using **ResNet50 & VGG16** to classify retinal images into:
+> **Normal, Cataract, Glaucoma, and Diabetic Retinopathy**  
+> 🎯 Achieved **92% accuracy** on a 4K image dataset using transfer learning and augmentation  
+> 📲 Future scope: Deploying as a mobile app for real-time screening
+
+📷 **Sample Output**  
+<img src="https://raw.githubusercontent.com/Guna-Venkat/EyeDiseaseClassification/main/sample-retina-grid.jpg" width="600" alt="Retinal Sample Grid" />
+
+---
+
+### 💸 Financial Forecasting of Spotify’s Revenue & Expenses  
+[![Repo](https://img.shields.io/badge/GitHub-Repo-000?logo=github)](https://github.com/Guna-Venkat/Financial-Forecasting-of-Spotify-s-Revenue-Expenses)
+
+> 📈 Forecasted **Spotify’s quarterly financials** using:
+> - 🧠 **ARIMA** and **Facebook Prophet** models  
+> - 📊 Seasonal trend decomposition & multistep time series prediction  
+> 📉 Predicted revenue and expense growth to support strategic planning  
+
+📊 **Forecast Preview**  
+<img src="https://raw.githubusercontent.com/Guna-Venkat/Financial-Forecasting-of-Spotify-s-Revenue-Expenses/main/forecast-plot.png" width="600" alt="Spotify Forecast Plot" />
+
+---
+
 
 🚧 Working on exciting AI projects in **Agro-AI**, **Finance AI**, and **Computer Vision**  
 🔜 Stay tuned for updates on crop prediction, pest detection, and financial insights powered by machine learning.
