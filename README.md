@@ -44,9 +44,6 @@
 > 🎯 Achieved **92% accuracy** on a 4K image dataset using transfer learning and augmentation  
 > 📲 Future scope: Deploying as a mobile app for real-time screening
 
-📷 **Sample Output**  
-<img src="https://raw.githubusercontent.com/Guna-Venkat/EyeDiseaseClassification/main/sample-retina-grid.jpg" width="600" alt="Retinal Sample Grid" />
-
 ---
 
 ### 💸 Financial Forecasting of Spotify’s Revenue & Expenses  
@@ -58,7 +55,7 @@
 > 📉 Predicted revenue and expense growth to support strategic planning  
 
 📊 **Forecast Preview**  
-<img src="https://raw.githubusercontent.com/Guna-Venkat/Financial-Forecasting-of-Spotify-s-Revenue-Expenses/main/forecast-plot.png" width="600" alt="Spotify Forecast Plot" />
+<img src="https://github.com/Guna-Venkat/Financial-Forecasting-of-Spotify-s-Revenue-Expenses/raw/main/assets/forecast_image.PNG" width="600" alt="Spotify Forecast Plot" />
 
 ---
 
