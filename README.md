@@ -41,7 +41,7 @@
 
 > 🩺 A CNN-based diagnostic system using **ResNet50 & VGG16** to classify retinal images into:
 > **Normal, Cataract, Glaucoma, and Diabetic Retinopathy**  
-> 🎯 Achieved **92% accuracy** on a 4K image dataset using transfer learning and augmentation  
+> 🎯 Achieved **92% accuracy** on a 480p image dataset using transfer learning and augmentation  
 > 📲 Future scope: Deploying as a mobile app for real-time screening
 
 ---
